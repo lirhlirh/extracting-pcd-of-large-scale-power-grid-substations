@@ -1,0 +1,8 @@
+# input data path
+C:/Modeling/preExtract/Cropped_Grd/35
+# output data path
+C:/Modeling/preExtract/Cropped_Grd_SOR/35
+# k_means 
+30
+# n_std
+1.0
